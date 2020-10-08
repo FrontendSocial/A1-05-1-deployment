@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "e-commerce"
+    }
+  },
+  "defaultProject": "e-commerce",
+  "cli": {
+    "analytics": "2bb1877e-de13-4e18-b1ca-c1eae900f6ad"
+  }
 }
